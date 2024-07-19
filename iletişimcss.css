@@ -1,0 +1,26 @@
+#nav{
+    background-color: rgb(50, 85, 59);
+    width: 100%;
+    padding: 150px;
+}
+
+h1{
+    color: rgb(50, 85, 59);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80;
+    text-align: center;
+}
+
+body{
+    background-image:url("pin.jpg");
+}
+
+table.table {
+    width: 1800px;
+    height: 80px;
+    background-color: cornflowerblue;
+    margin: auto;
+    padding: 10px;
+    display: table;
+    border-color: rgb(50, 85, 59);
+    }

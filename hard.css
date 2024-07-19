@@ -1,0 +1,27 @@
+.display-4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image:url("wall.jpg");
+}
+
+.container{  margin: auto;
+    width: 100%;
+    padding: 150px;
+
+}
+
+#con{
+    background-image:url("green.jpg");
+}
+
+#nav{
+    width: 100%;
+    padding: 150px;
+    background-color: rgb(50, 85, 59);
+}
