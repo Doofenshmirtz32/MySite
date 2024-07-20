@@ -7,7 +7,7 @@ p{
 }
 
 body{
-    background-color:rgb(165, 204, 167);
+    background-color: rgb(112,132,109);
 }
 
 .container{  margin: auto;
@@ -17,7 +17,8 @@ body{
 }
 
 #con{
-    background-image:url("green.jpg");
+    background-image: url("pin.jpg");
+    background-size: cover;
 }
 
 #nav{
