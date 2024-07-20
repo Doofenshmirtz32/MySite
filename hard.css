@@ -7,7 +7,7 @@ p{
 }
 
 body{
-    background-image:url("wall.jpg");
+    background-color:rgb(135, 180, 146);
 }
 
 .container{  margin: auto;
